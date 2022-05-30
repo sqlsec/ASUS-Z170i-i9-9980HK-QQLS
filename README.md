@@ -1,0 +1,2 @@
+# ASUS-Z170i-i9-9980HK-QQLS-RX550
+ASUS Z170i Pro Gaming 搭配 i9-9980HK QQLS 魔改 U 黑苹果 EFI 驱动分享
